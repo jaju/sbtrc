@@ -2,3 +2,4 @@ boot
 staging
 plugins/project/
 plugins/target/
+target/
